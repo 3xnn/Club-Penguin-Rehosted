@@ -1,2 +1,2 @@
 # Club Penguin Rehosted
-Site will be listen upon release!
+https://3xnn.github.io/Club-Penguin-Rehosted/
